@@ -22,7 +22,7 @@ Unacceptable behaviors include, but are not limited to:
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this Code of Conduct, please report it by contacting the project maintainers at [author.fidal@gmail.com]. All reports will be handled confidentially and will be promptly addressed.
+If you witness or experience behavior that violates this Code of Conduct, please report it by contacting the project maintainers at author.fidal@gmail.com. All reports will be handled confidentially and will be promptly addressed.
 
 ## Enforcement
 
@@ -34,6 +34,6 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ## Questions or Concerns
 
-If you have any questions or concerns about this Code of Conduct, please contact the project maintainers at [maintainers@example.com].
+If you have any questions or concerns about this Code of Conduct, please contact the project maintainers at author.fidal@gmail.com.
 
 Thank you for contributing to the pucham project!
