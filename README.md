@@ -17,7 +17,7 @@ Visit [blog.pucham.in](https://blog.pucham.in) to explore our latest content.
 - [Monetization Disclosure](#monetization-disclosure)
 - [User Engagement](#user-engagement)
 - [Motivation](#motivation)
-- [Join Our Community](#join-our-community)
+- [Indian Focus](#indian-focus)
 
 ## Introduction
 
@@ -67,5 +67,9 @@ Pucham.in is not just a blog; it's a community of tech enthusiasts, learners, an
 ## Motivation
 
 We believe in the power of knowledge and continuous learning. Whether you're a seasoned professional or just starting your journey in the tech world, remember that every step forward is a success. Stay motivated, stay curious, and enjoy the learning journey with Pucham.in.
+
+## Indian Focus
+
+Pucham.in is primarily focused on serving the Indian tech community. We understand the unique challenges and opportunities faced by Indian developers and aim to provide content that is relevant and beneficial to our Indian audience.
 
 Thank you for choosing Pucham.in's blog. Happy reading and exploring!
