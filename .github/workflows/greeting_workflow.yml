@@ -15,6 +15,6 @@ jobs:
 
     - name: Send Greeting
       run: |
-        echo "Hello there! 👋"
-        echo "Thanks for your pull request. We appreciate your contribution!"
+        echo "👋 Welcome to the collaboration space! 🚀"
+        echo "Thank you for opening a pull request. Your contribution is valued!"
       shell: bash
