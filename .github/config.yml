@@ -1,8 +1,19 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted on first-time issues
 newIssueWelcomeComment: >
   🎉 Welcome to the pucham project! 🚀 Thank you for opening your first issue! Make sure to follow our issue template for a smooth collaboration.
 
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted on pull requests from first-time contributors
 newPRWelcomeComment: >
   🌟 Awesome! You're making a difference! Thanks for your pull request to pucham. 🙌 Please take a moment to review our contributing guidelines.
 
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted on pull requests merged by a first-time user
 firstPRMergeComment: >
   🎊 Hooray! 🚀 You just merged your first pull request with pucham! The behaviorbot team is celebrating your achievement. Great job!
