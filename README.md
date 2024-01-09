@@ -18,6 +18,7 @@ Visit [blog.pucham.in](https://blog.pucham.in) to explore our latest content.
 - [User Engagement](#user-engagement)
 - [Motivation](#motivation)
 - [Indian Focus](#indian-focus)
+- [Multilingual Blogs](#multilingual-blogs)
 
 ## Introduction
 
@@ -71,5 +72,9 @@ We believe in the power of knowledge and continuous learning. Whether you're a s
 ## Indian Focus
 
 Pucham.in is primarily focused on serving the Indian tech community. We understand the unique challenges and opportunities faced by Indian developers and aim to provide content that is relevant and beneficial to our Indian audience.
+
+## Multilingual Blogs
+
+At Pucham.in, we embrace diversity. You are encouraged to write blogs in any Indian language of your choice. We believe that language should not be a barrier, and we welcome contributions in languages such as Hindi, Tamil, Telugu, Bengali, and more. Let's celebrate the richness of our cultural and linguistic diversity.
 
 Thank you for choosing Pucham.in's blog. Happy reading and exploring!
