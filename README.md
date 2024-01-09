@@ -1,6 +1,6 @@
 # Welcome to the Pucham.in Blog
 
-![Pucham.in Logo](url_to_logo.png)
+![Pucham.in Logo](img/blog.jpeg)
 
 ## Overview
 
