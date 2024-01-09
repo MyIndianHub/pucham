@@ -1,0 +1,20 @@
+name: Greeting Workflow
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the code
+      uses: actions/checkout@v2
+
+    - name: Send Greeting
+      run: |
+        echo "Hello there! 👋"
+        echo "Thanks for your pull request. We appreciate your contribution!"
+      shell: bash
