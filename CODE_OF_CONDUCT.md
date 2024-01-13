@@ -34,6 +34,6 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ## Questions or Concerns
 
-If you have any questions or concerns about this Code of Conduct, please contact the project maintainers at author.fidal@gmail.com.
+If you have any questions or concerns about this Code of Conduct, please contact the project maintainers at official.myindianhub@gmail.com.
 
 Thank you for contributing to the pucham project!
