@@ -77,6 +77,12 @@ Pucham.in is primarily focused on serving the Indian tech community. We understa
 
 At Pucham.in, we embrace diversity. You are encouraged to write blogs in any Indian language of your choice. We believe that language should not be a barrier, and we welcome contributions in languages such as Hindi, Tamil, Telugu, Bengali, and more. Let's celebrate the richness of our cultural and linguistic diversity.
 
+## Community
+
+Join our community on [Telegram](https://telegram.me/myindianhub) and start coding together!
+
+GitHub Discussions : [Discussions](https://github.com/orgs/MyIndianHub/discussions)
+
 ## Thanks 💜
 
 Thank you for choosing Pucham.in's blog. Happy reading and exploring!
